@@ -1,0 +1,17 @@
+50bf1f042cfdf67a835c26ad486fb833 *DESCRIPTION
+9fdfeb11f7ddba6f3aab9aaa6b1ac5dd *NAMESPACE
+03858456b9b48dff4e3dfd5a55078dae *R/Rsquared.R
+fd251632a9ed96fc9470303da12d34bc *R/coef.tslars.R
+f0684a59957275ab193eb366724c2839 *R/design.R
+6c772b11151cafc7f53e9097ecfb8aa0 *R/minindexmatrix.R
+16cdb282b741a9e4493980c0fdf79a23 *R/predict.tslars.R
+37c8fe7771f774a08ab389a8c57a7dbd *R/print.summary.tslars.R
+06978614b694eaa1a28efb520842d369 *R/print.tslars.R
+72f069414ff301881ad46a57b535bd5f *R/summary.tslars.R
+21067a74073b4531555ab7d49490ea26 *R/tslars.R
+75b7f6b646eae3dacdef3ba9179b749f *R/tslars.p.R
+a322a91bf1f6e15db95ef50fa3a13164 *man/Rsquared.Rd
+4f103fb33a4647849020b8c84a1fa66c *man/design.Rd
+786657224d8aef10dfb5d1bf688597bb *man/minindexmatrix.Rd
+a46b7a04f8a0c9264cd6c189e0409f20 *man/tslars-package.Rd
+c7190b15e5385c1b21340087375e8ff1 *man/tslars.Rd
